@@ -20,6 +20,7 @@ public class Orden {
     @JoinColumn(name ="idcliente")
     private Cliente cliente;
 
+
     public Orden() {
     }
 
